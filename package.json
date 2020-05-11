@@ -1,0 +1,8 @@
+{
+  "name": "data-wagon-js",
+  "version": "0.0.1-beta",
+  "main": "index.js",
+  "repository": "https://github.com/ggsilva/data-wagon-js.git",
+  "author": "Guilherme Gabriel da Silva",
+  "license": "MIT"
+}
