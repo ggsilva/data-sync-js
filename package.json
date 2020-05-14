@@ -1,8 +1,19 @@
 {
   "name": "data-wagon-js",
-  "version": "0.0.1-beta",
+  "version": "0.0.1-alfa",
   "main": "index.js",
   "repository": "https://github.com/ggsilva/data-wagon-js.git",
   "author": "Guilherme Gabriel da Silva",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "axios": "^0.x"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "metisjs": "^0.0.1-alfa",
+    "mocha": "^7.1.2"
+  }
 }
